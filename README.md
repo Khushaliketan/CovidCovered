@@ -1,7 +1,7 @@
 # CovidCovered
 CovidCovered has all the official Care, Testing and Collection centers located in Kerala made using folium library in python.
 
-Download the dataset 'Covid-Care-Testing-Collection Kerala.xlsx' and run the python notebook to see the map, hover over your searched center also having a draggable legend!
+Download the dataset 'Covid-Care-Testing-Collection Kerala.xlsx' and run the src file in python to see the map, hover over your searched center also having a draggable legend!
 
 The dataset is collected from the following TOI sites(1 & 2) & is verfied by the Kerala Govt. indirectly, hence not used for commercial purposes. Verification of them will be highly appreciated :).
 
